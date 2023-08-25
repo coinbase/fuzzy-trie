@@ -13,3 +13,12 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Ignore IntelliJ artifacts
+.idea
+
+# Ignore benchmarking data
+ghProjectInfo2013-Feb.txt.bz2
+
+# Ignore pprof artifacts
+*.prof
